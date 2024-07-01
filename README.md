@@ -3,6 +3,7 @@ List of Artificial Intelligence startups companies - (<strong>lists at <a href="
 <ul>
 <li><strong><a href="http://www.darktrace.com/">Darktrace</a>: </strong>Darktrace is an artificial intelligence company for cyber security.</li><br>
 <li><strong><a href="http://revl.com">Revl</a>: </strong>The world's smartest action camera</li><br>
+<li><strong><a href="https://www.wordware.ai">Wordware</a>: </strong>A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. It approaches prompting as a new programming language rather than low/no-code blocks.</li><br>
 <li><strong><a href="http://www.directly.com">Directly</a>: </strong>Crowd-Powered AI</li><br>
 <li><strong><a href="https://www.afiniti.com">Afiniti</a>: </strong>Afiniti provides artificial intelligence (AI) solutions that enable the transformation of enterprise profitability.</li><br>
 <li><strong><a href="http://precisionhawk.com">PrecisionHawk</a>: </strong>Precision Hawk offers a fully autonomous UAV performing low altitude aerial data collection and subsequent data management and analysis.</li><br>
